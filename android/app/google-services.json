@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "711696951900",
+    "project_id": "carpooling-20bbc",
+    "storage_bucket": "carpooling-20bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711696951900:android:7ae1a72eb19971cbd25499",
+        "android_client_info": {
+          "package_name": "com.example.carpooling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711696951900-krd2seltoc838b0cj2jn75mo3i3qfc5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG4lKHr-CgHjO_fQdaCYsL89rV0K3r0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711696951900-krd2seltoc838b0cj2jn75mo3i3qfc5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711696951900:android:5e20fe17855d7056d25499",
+        "android_client_info": {
+          "package_name": "com.example.testingproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711696951900-krd2seltoc838b0cj2jn75mo3i3qfc5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG4lKHr-CgHjO_fQdaCYsL89rV0K3r0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711696951900-krd2seltoc838b0cj2jn75mo3i3qfc5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
